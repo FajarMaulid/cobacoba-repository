@@ -1,3 +1,3 @@
 # Haloha
 
-Ini hanya repository coba-coba semata
+Ini hanya branch yang diperuntukan untuk cobacoba semata
