@@ -1,3 +1,3 @@
 # Haloha
 
-Ini hanya branch yang diperuntukan untuk cobacoba semata
+Baris ini kembali diubah untuk menciptakan *conflict* pada proses *merge* nantinya
