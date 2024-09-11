@@ -6,3 +6,4 @@
 
 ## Ini adalah commit kedua untuk proses squash and merge
 
+## Ini adalah commit kedua untuk proses squash and merge
